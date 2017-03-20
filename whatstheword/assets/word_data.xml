@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+
+    <Category
+        id="4"
+        name="The Farm"
+        image="farm" color="#F6BD1A">
+        
+        
+         <Word
+            image="cow"
+            sound="cow"
+            title="Cow"
+            color="#F6BD1A" >
+        </Word>
+
+        <Word
+            image="sheep"
+            sound="sheep"
+            title="Sheep"
+            color="#8CC542" >
+        </Word>
+
+        <Word
+            image="horse"
+            sound="horse"
+            title="Horse"
+            color="#03AEF0" >
+        </Word>
+
+        <Word
+            image="cat"
+            sound="cat"
+            title="Cat"
+            color="#F5931E" >
+        </Word>
+
+        <Word
+            image="dog"
+            sound="dog"
+            title="Dog"
+            color="#E61854" >
+        </Word>
+        
+         <Word
+            image="duck"
+            sound="duck"
+            title="Duck"
+            color="#A02065" >
+        </Word>
+
+        <Word
+            image="rooster"
+            sound="rooster"
+            title="Rooster"
+            color="#0C9346" >
+        </Word>
+        
+        <Word
+            image="hen"
+            sound="hen"
+            title="Hen"
+            color="#8CC444" >
+        </Word>
+
+        <Word
+            image="chick"
+            sound="chick"
+            title="Chick"
+            color="#23A9DF" >
+        </Word>
+        
+          <Word
+            image="turkey"
+            sound="turkey"
+            title="Turkey"
+            color="#F6BD1A" >
+        </Word>
+    </Category>
+
+
+
+    <Category
+        id="1"
+        name="The Zoo"
+        image="zoo" color="#8CC542">
+
+        <Word
+            image="elephant"
+            sound="elephant"
+            title="Elephant"
+            color="#F6BD1A" >
+        </Word>
+
+        <Word
+            image="lion"
+            sound="lion"
+            title="Lion"
+            color="#8CC542" >
+        </Word>
+
+        <Word
+            image="giraffe"
+            sound="giraffe"
+            title="Giraffe"
+            color="#03AEF0" >
+        </Word>
+
+        <Word
+            image="zebra"
+            sound="zebra"
+            title="Zebra"
+            color="#F5931E" >
+        </Word>
+
+        <Word
+            image="bear"
+            sound="bear"
+            title="Bear"
+            color="#E61854" >
+        </Word>
+
+        <Word
+            image="panda"
+            sound="panda"
+            title="Panda"
+            color="#A02065" >
+        </Word>
+
+        <Word
+            image="gorilla"
+            sound="gorilla"
+            title="Gorilla"
+            color="#0C9346" >
+        </Word>
+
+        <Word
+            image="hippo"
+            sound="hippo"
+            title="Hippopotamus"
+            color="#8CC444" >
+        </Word>
+
+        <Word
+            image="rhino"
+            sound="rhino"
+            title="Rhinoceros"
+            color="#23A9DF" >
+        </Word>
+    </Category>
+
+<!-- 
+    <Category
+        id="3"
+        name="The Circus"
+        image="circus" color="#03AEF0">
+    </Category> -->
+
+
+
+    <Category
+        id="2"
+        name="The Supermarket"
+        image="supermarket" color="#F5931E">
+
+        <Word
+            image="bread"
+            sound="bread"
+            title="Bread"
+            color="#F6BD1A" >
+        </Word>
+
+        <Word
+            image="milk"
+            sound="milk"
+            title="Milk"
+            color="#8CC542" >
+        </Word>
+
+        <Word
+            image="cheese"
+            sound="cheese"
+            title="Cheese"
+            color="#03AEF0" >
+        </Word>
+
+        <Word
+            image="water"
+            sound="water"
+            title="Water"
+            color="#F5931E" >
+        </Word>
+
+        <Word
+            image="eggs"
+            sound="eggs"
+            title="Eggs"
+            color="#E61854" >
+        </Word>
+
+        <Word
+            image="meat"
+            sound="meat"
+            title="Meat"
+            color="#A02065" >
+        </Word>
+
+        <Word
+            image="chicken"
+            sound="chicken"
+            title="Chicken"
+            color="#0C9346" >
+        </Word>
+
+        <Word
+            image="cookies"
+            sound="cookies"
+            title="Cookies"
+            color="#8CC444" >
+        </Word>
+
+        <Word
+            image="juice"
+            sound="juice"
+            title="Juice"
+            color="#23A9DF" >
+        </Word>
+        
+         <Word
+            image="toiletpaper"
+            sound="toiletpaper"
+            title="Toilet Paper"
+            color="#F6BD1A" >
+        </Word>
+
+        <Word
+            image="tissue"
+            sound="tissue"
+            title="Tissue"
+            color="#8CC542" >
+        </Word>
+
+        <Word
+            image="detergent"
+            sound="detergent"
+            title="Detergent"
+            color="#03AEF0" >
+        </Word>
+
+        <Word
+            image="soap"
+            sound="soap"
+            title="Soap"
+            color="#F5931E" >
+        </Word>
+
+        <Word
+            image="shampoo"
+            sound="shampoo"
+            title="Shampoo"
+            color="#E61854" >
+        </Word>
+        
+        <Word
+            image="toothpaste"
+            sound="toothpaste"
+            title="Toothpaste"
+            color="#A02065" >
+        </Word>
+    </Category>
+
+
+<!--     <Category
+        id="3"
+        name="The House"
+        image="home" color="#E61854">
+    </Category> -->
+
+
+    <Category
+        id="3"
+        name="The Playground"
+        image="playground" color="#A02065">
+
+        <Word
+            image="slide"
+            sound="slide"
+            title="Slide"
+            color="#F6BD1A" >
+        </Word>
+
+        <Word
+            image="swing"
+            sound="swing"
+            title="Swing"
+            color="#8CC542" >
+        </Word>
+
+        <Word
+            image="seesaw"
+            sound="seesaw"
+            title="Seesaw"
+            color="#03AEF0" >
+        </Word>
+
+        <Word
+            image="merrygoround"
+            sound="merrygoround"
+            title="Merry-Go-Round"
+            color="#F5931E" >
+        </Word>
+
+        <Word
+            image="pool"
+            sound="pool"
+            title="Baby Pool"
+            color="#E61854" >
+        </Word>
+
+        <Word
+            image="sandpit"
+            sound="sandpit"
+            title="Sandpit"
+            color="#A02065" >
+        </Word>
+
+        <Word
+            image="playhouse"
+            sound="playhouse"
+            title="Playhouse"
+            color="#0C9346" >
+        </Word>
+
+        <Word
+            image="monkeybars"
+            sound="monkeybars"
+            title="Monkey Bars"
+            color="#8CC444" >
+        </Word>
+    </Category>
+
+</Categories>
